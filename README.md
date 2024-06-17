@@ -3,6 +3,12 @@
 ## 📜 Description
 "MiniTalk" is a project that I made in my Cursus at 42School that demonstrates inter-process communication using Unix signals. It consists of a server and a client where the client sends messages to the server using signals. This project highlights the basics of signal handling and process synchronization in Unix.
 
+#### ⭐ My 42 score for this project:
+![image](https://github.com/yvann-ba/MiniTalk/assets/97234242/29d8e0fb-d3b3-4789-8731-d9a3a8b653b6)
+
+#### 📄 Official 42 School Subject:
+https://github.com/rphlr/42-Subjects/blob/main/common-core/minitalk/en.subject.pdf
+
 ## 🌟 Features
 - Inter-process communication via Unix signals
 - Simple client-server architecture
